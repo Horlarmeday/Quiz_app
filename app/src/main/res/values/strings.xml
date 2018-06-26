@@ -1,4 +1,57 @@
 <resources>
-    <string name="app_name">Quiz App</string>
-    <string name="question_one">1. According to principle of conservation of energy, the total momentum of a system of masses in any direction remains constant unless acted upon by an external force in that direction.</string>
+    <string name="app_name">Quiz</string>
+
+    <!--Question One-->
+    <string name="question_one">The friction experienced by a body, when in motion, is known as</string>
+    <string name="answer_one_a">rolling friction</string>
+    <string name="answer_one_b">dynamic friction</string>
+    <string name="answer_one_c">limiting friction</string>
+    <string name="num_one">1.</string>
+
+    <!--Question Two-->
+    <string name="question_two">The term force may be defined as an agent which produces or tends to produce, destroys or tends to destroy motion.</string>
+    <string name="answer_two_a">agree</string>
+    <string name="answer_two_b">disagree</string>
+    <string name="num_two">2.</string>
+
+    <!--Question Three-->
+    <string name="question_three">The coefficient of restitution for elastic bodies is one.</string>
+    <string name="num_three">3.</string>
+
+    <!--Question Four-->
+    <string name="question_four">The angle of inclination of a vehicle when moving along a circular path __________ upon its mass.</string>
+    <string name="answer_four_a">depends</string>
+    <string name="answer_four_b">does not depend</string>
+    <string name="num_four">4.</string>
+
+    <!--Question Five-->
+    <string name="question_five">If the resultant of two equal forces has the same magnitude as either of the forces, then the angle between the two forces is</string>
+    <string name="answer_five_a">30°</string>
+    <string name="answer_five_b">60°</string>
+    <string name="answer_five_c">120°</string>
+    <string name="num_five">5.</string>
+
+    <!--Question six-->
+    <string name="question_six">The velocity ratio in case of an inclined plane inclined at angle θ to the horizontal and weight being pulled up the inclined plane by vertical effort is</string>
+    <string name="answer_six_a">sin θ</string>
+    <string name="answer_six_b">cosec θ</string>
+    <string name="num_six">6.</string>
+
+    <!--Question seven-->
+    <string name="question_seven">In the equation of virtual work, which of these force is neglected</string>
+    <string name="answer_seven_a">reaction of any smooth surface with which the body is in contact</string>
+    <string name="answer_seven_b">reaction of a rough surface of a body which rolls on it without slipping</string>
+    <string name="answer_seven_c">reaction from a surface that is rubbed against a body</string>
+    <string name="num_seven">7.</string>
+
+    <!--Question seven-->
+    <string name="question_eight">The angle of inclination of a vehicle when moving along a circular path __________ upon its mass.</string>
+    <string name="answer_eight_a">depends</string>
+    <string name="answer_eight_b">does not depend</string>
+    <string name="num_eight">8.</string>
+    <string name="edit_text_name">Please enter your name</string>
+    <string name="view_answer">View answer</string>
+    <string name="submit_btn">Submit</string>
+
+
 </resources>

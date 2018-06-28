@@ -44,14 +44,17 @@
     <string name="answer_seven_c">reaction from a surface that is rubbed against a body</string>
     <string name="num_seven">7.</string>
 
-    <!--Question seven-->
-    <string name="question_eight">The angle of inclination of a vehicle when moving along a circular path __________ upon its mass.</string>
-    <string name="answer_eight_a">depends</string>
-    <string name="answer_eight_b">does not depend</string>
-    <string name="num_eight">8.</string>
+    <!--The edit text name-->
     <string name="edit_text_name">Please enter your name</string>
+
+    <!--View answer button text-->
     <string name="view_answer">View answer</string>
+
+    <!--Submit button text-->
     <string name="submit_btn">Submit</string>
+    <string name="heading">Mech. Engineering : :</string>
+    <string name="sub_heading"> Engineering Mechanics</string>
+    <string name="instructions">Instructions: Answer all questions.</string>
 
 
 </resources>

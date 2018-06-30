@@ -1,8 +1,8 @@
 # Quiz App
-This project is a quiz app that is based on mechanical engineering <br>
-The questions are based on engineering mechanics <br>
+This project is a Quiz app that is based on mechanical engineering <br>
+The questions are gotten from engineering mechanics topics<br>
 <br>There are 8 questions to be answered in this app and also an EditText view to get the name of the user. <br>
-Each question having atleast 2 radio buttons or checkboxes to choose the correct answers<br>
+Each question have atleast 2 radio buttons or checkboxes to choose the correct answers<br>
 There are also two buttons, one for submitting answers and the other is for viewing the correct answers <br>
 <br>The user must answer all the questions before submitting else the app returns and displays a toast telling the user the number of question that haven't been answered. 
 If the user also tries to view the answers before answering the questions, the app returns and prompts the user to answer the questions first before viewing the correct answers. <br>
